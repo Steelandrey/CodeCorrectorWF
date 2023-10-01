@@ -1,0 +1,2 @@
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Release\net6.0-windows\publish\win-x64\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Release\net6.0-windows\publish\win-x64\CodeCorrectorWF.exe

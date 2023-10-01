@@ -1,0 +1,101 @@
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.exe
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.deps.json
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.runtimeconfig.json
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.dll
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.pdb
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.AssemblyReference.cache
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.MainForm.resources
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.GenerateResource.cache
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.AssemblyInfoInputs.cache
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.AssemblyInfo.cs
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.CoreCompileInputs.cache
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.dll
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\refint\CodeCorrectorWF.dll
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.pdb
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.genruntimeconfig.cache
+C:\Users\Steel\source\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\ref\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.exe
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.deps.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.runtimeconfig.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.AssemblyReference.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.MainForm.resources
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.GenerateResource.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.GeneratedMSBuildEditorConfig.editorconfig
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.AssemblyInfoInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.AssemblyInfo.cs
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.CoreCompileInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\refint\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.genruntimeconfig.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Debug\net6.0-windows\ref\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.exe
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.deps.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.runtimeconfig.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.AssemblyReference.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.MainForm.resources
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.GenerateResource.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.GeneratedMSBuildEditorConfig.editorconfig
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.AssemblyInfoInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.AssemblyInfo.cs
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.CoreCompileInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\refint\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.genruntimeconfig.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\ref\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.exe
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.deps.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.runtimeconfig.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.AssemblyReference.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.MainForm.resources
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.GenerateResource.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.GeneratedMSBuildEditorConfig.editorconfig
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.AssemblyInfoInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.AssemblyInfo.cs
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.CoreCompileInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\refint\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.genruntimeconfig.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Debug\net6.0-windows\ref\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.exe
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.deps.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.runtimeconfig.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.AssemblyReference.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.MainForm.resources
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.GenerateResource.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.GeneratedMSBuildEditorConfig.editorconfig
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.AssemblyInfoInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.AssemblyInfo.cs
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.CoreCompileInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\refint\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.genruntimeconfig.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\ref\CodeCorrectorWF.dll
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.exe
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.deps.json
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.runtimeconfig.json
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.dll
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\bin\Debug\net6.0-windows\CodeCorrectorWF.pdb
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.MainForm.resources
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.GenerateResource.cache
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.AssemblyInfoInputs.cache
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.AssemblyInfo.cs
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.csproj.CoreCompileInputs.cache
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.dll
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\refint\CodeCorrectorWF.dll
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.pdb
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\CodeCorrectorWF.genruntimeconfig.cache
+C:\Users\Steel\source\repos\CodeCorrectorWinForms\DEV\CodeCorrectorWF\obj\Debug\net6.0-windows\ref\CodeCorrectorWF.dll

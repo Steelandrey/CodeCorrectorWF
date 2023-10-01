@@ -1,0 +1,51 @@
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.exe
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.deps.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.runtimeconfig.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.csproj.AssemblyReference.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.MainForm.resources
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.csproj.GenerateResource.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.GeneratedMSBuildEditorConfig.editorconfig
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.AssemblyInfoInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.AssemblyInfo.cs
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.csproj.CoreCompileInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\refint\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.genruntimeconfig.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWF\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\ref\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.exe
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.deps.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.runtimeconfig.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.csproj.AssemblyReference.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.MainForm.resources
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.csproj.GenerateResource.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.GeneratedMSBuildEditorConfig.editorconfig
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.AssemblyInfoInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.AssemblyInfo.cs
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.csproj.CoreCompileInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\refint\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.genruntimeconfig.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.2 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\ref\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.exe
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.deps.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.runtimeconfig.json
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\bin\Release\net6.0-windows\win-x64\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.csproj.AssemblyReference.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.MainForm.resources
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.csproj.GenerateResource.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.GeneratedMSBuildEditorConfig.editorconfig
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.AssemblyInfoInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.AssemblyInfo.cs
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.csproj.CoreCompileInputs.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\refint\CodeCorrectorWF.dll
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.pdb
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\CodeCorrectorWF.genruntimeconfig.cache
+F:\Работа\Visual Studio Projects\repos\CodeCorrectorWinForms\v 1.21 stable\CodeCorrectorWF\obj\Release\net6.0-windows\win-x64\ref\CodeCorrectorWF.dll
