@@ -58,9 +58,9 @@ namespace CodeCorrectorWF
             public void File_Analysis()
             {
                 //Просто тренируюсь
-                Array.LastIndexOf(Instruments_array, 1);
+                /*Array.LastIndexOf(Instruments_array, 1);
                 Array.Copy(Uniq_Instruments_array, Instruments_array, 25);
-                Array.Sort(Uniq_Instruments_array);
+                Array.Sort(Uniq_Instruments_array);*/
 
                 //При повторном вызове необходимо занулить
                 Instruments = "";
@@ -287,7 +287,7 @@ namespace CodeCorrectorWF
         {
             dataGridView1.Rows.Clear();
 
-            if (up.Uniq_Instruments_array.Length >= 1)
+            if (up.Instruments.Length >= 2)
             {
                 for (int i = 0; i < up.InstrumentsCount; i++)
                 {
@@ -452,24 +452,35 @@ namespace CodeCorrectorWF
         string Last_save_file_name;//Путь к последнему сохраненному файлу
         private void save_as_button_Click(object sender, EventArgs e)
         {
-            var date = new DateTime(2022, 10, 17);
-            if (DateTime.Today > date)
+            //Если нужна пробная версия
+            /*   var date = new DateTime(2022, 10, 17);
+               if (DateTime.Today > date)
+               {
+                   message_label.Text = "Пробный период программы истёк.";
+               }
+               else
+               {
+                   SaveFileDialog saveFileDialog = new SaveFileDialog();
+                   saveFileDialog.Filter = "All file (*.*)|*.*";
+                   saveFileDialog.FileName = up_global.filename;
+                   if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                   {
+                       File.WriteAllText(saveFileDialog.FileName, up_global.Code);
+                       update_button.Enabled = true;
+                       save_as_button.Enabled = false;
+                   }
+                   Last_save_file_name = saveFileDialog.FileName;
+               }*/
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            saveFileDialog.Filter = "All file (*.*)|*.*";
+            saveFileDialog.FileName = up_global.filename;
+            if (saveFileDialog.ShowDialog() == DialogResult.OK)
             {
-                message_label.Text = "Пробный период программы истёк.";
+                File.WriteAllText(saveFileDialog.FileName, up_global.Code);
+                update_button.Enabled = true;
+                save_as_button.Enabled = false;
             }
-            else
-            {
-                SaveFileDialog saveFileDialog = new SaveFileDialog();
-                saveFileDialog.Filter = "All file (*.*)|*.*";
-                saveFileDialog.FileName = up_global.filename;
-                if (saveFileDialog.ShowDialog() == DialogResult.OK)
-                {
-                    File.WriteAllText(saveFileDialog.FileName, up_global.Code);
-                    update_button.Enabled = true;
-                    save_as_button.Enabled = false;
-                } 
-                Last_save_file_name = saveFileDialog.FileName;
-            }
+            Last_save_file_name = saveFileDialog.FileName;
         }
     }
 }

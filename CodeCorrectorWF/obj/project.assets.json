@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Steel\\source\\repos\\CodeCorrectorWinForms\\DEV\\CodeCorrectorWF\\CodeCorrectorWF.csproj",
+      "projectUniqueName": "C:\\Users\\Steel\\Documents\\GitHub\\CodeCorrectorWF\\CodeCorrectorWF\\CodeCorrectorWF.csproj",
       "projectName": "CodeCorrectorWF",
-      "projectPath": "C:\\Users\\Steel\\source\\repos\\CodeCorrectorWinForms\\DEV\\CodeCorrectorWF\\CodeCorrectorWF.csproj",
+      "projectPath": "C:\\Users\\Steel\\Documents\\GitHub\\CodeCorrectorWF\\CodeCorrectorWF\\CodeCorrectorWF.csproj",
       "packagesPath": "C:\\Users\\Steel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Steel\\source\\repos\\CodeCorrectorWinForms\\DEV\\CodeCorrectorWF\\obj\\",
+      "outputPath": "C:\\Users\\Steel\\Documents\\GitHub\\CodeCorrectorWF\\CodeCorrectorWF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

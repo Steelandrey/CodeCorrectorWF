@@ -28,145 +28,141 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.файлToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.открытьToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.закрытьToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.change_up_button = new System.Windows.Forms.Button();
-            this.update_button = new System.Windows.Forms.Button();
-            this.message_label = new System.Windows.Forms.Label();
-            this.save_as_button = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            this.menuStrip1.SuspendLayout();
-            this.SuspendLayout();
+            components = new System.ComponentModel.Container();
+            dataGridView1 = new DataGridView();
+            contextMenuStrip1 = new ContextMenuStrip(components);
+            menuStrip1 = new MenuStrip();
+            файлToolStripMenuItem = new ToolStripMenuItem();
+            открытьToolStripMenuItem = new ToolStripMenuItem();
+            закрытьToolStripMenuItem = new ToolStripMenuItem();
+            textBox1 = new TextBox();
+            change_up_button = new Button();
+            update_button = new Button();
+            message_label = new Label();
+            save_as_button = new Button();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            menuStrip1.SuspendLayout();
+            SuspendLayout();
             // 
             // dataGridView1
             // 
-            this.dataGridView1.AllowUserToResizeColumns = false;
-            this.dataGridView1.AllowUserToResizeRows = false;
-            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(12, 39);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowTemplate.Height = 25;
-            this.dataGridView1.Size = new System.Drawing.Size(312, 399);
-            this.dataGridView1.TabIndex = 0;
-            this.dataGridView1.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellEndEdit);
+            dataGridView1.AllowUserToResizeColumns = false;
+            dataGridView1.AllowUserToResizeRows = false;
+            dataGridView1.BackgroundColor = SystemColors.GradientInactiveCaption;
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(12, 39);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.RowTemplate.Height = 25;
+            dataGridView1.Size = new Size(312, 399);
+            dataGridView1.TabIndex = 0;
+            dataGridView1.CellEndEdit += dataGridView1_CellEndEdit;
             // 
             // contextMenuStrip1
             // 
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
+            contextMenuStrip1.Name = "contextMenuStrip1";
+            contextMenuStrip1.Size = new Size(61, 4);
             // 
             // menuStrip1
             // 
-            this.menuStrip1.BackColor = System.Drawing.SystemColors.Window;
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.файлToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
-            this.menuStrip1.TabIndex = 2;
-            this.menuStrip1.Text = "menuStrip1";
+            menuStrip1.BackColor = SystemColors.Window;
+            menuStrip1.Items.AddRange(new ToolStripItem[] { файлToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(800, 24);
+            menuStrip1.TabIndex = 2;
+            menuStrip1.Text = "menuStrip1";
             // 
             // файлToolStripMenuItem
             // 
-            this.файлToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.открытьToolStripMenuItem,
-            this.закрытьToolStripMenuItem});
-            this.файлToolStripMenuItem.Name = "файлToolStripMenuItem";
-            this.файлToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
-            this.файлToolStripMenuItem.Text = "Файл";
+            файлToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { открытьToolStripMenuItem, закрытьToolStripMenuItem });
+            файлToolStripMenuItem.Name = "файлToolStripMenuItem";
+            файлToolStripMenuItem.Size = new Size(48, 20);
+            файлToolStripMenuItem.Text = "Файл";
             // 
             // открытьToolStripMenuItem
             // 
-            this.открытьToolStripMenuItem.Name = "открытьToolStripMenuItem";
-            this.открытьToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
-            this.открытьToolStripMenuItem.Text = "Открыть";
-            this.открытьToolStripMenuItem.Click += new System.EventHandler(this.открытьToolStripMenuItem_Click);
+            открытьToolStripMenuItem.Name = "открытьToolStripMenuItem";
+            открытьToolStripMenuItem.Size = new Size(121, 22);
+            открытьToolStripMenuItem.Text = "Открыть";
+            открытьToolStripMenuItem.Click += открытьToolStripMenuItem_Click;
             // 
             // закрытьToolStripMenuItem
             // 
-            this.закрытьToolStripMenuItem.Name = "закрытьToolStripMenuItem";
-            this.закрытьToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
-            this.закрытьToolStripMenuItem.Text = "Закрыть";
-            this.закрытьToolStripMenuItem.Click += new System.EventHandler(this.закрытьToolStripMenuItem_Click);
+            закрытьToolStripMenuItem.Name = "закрытьToolStripMenuItem";
+            закрытьToolStripMenuItem.Size = new Size(121, 22);
+            закрытьToolStripMenuItem.Text = "Закрыть";
+            закрытьToolStripMenuItem.Click += закрытьToolStripMenuItem_Click;
             // 
             // textBox1
             // 
-            this.textBox1.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.textBox1.Location = new System.Drawing.Point(343, 39);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(445, 290);
-            this.textBox1.TabIndex = 3;
+            textBox1.BackColor = SystemColors.GradientInactiveCaption;
+            textBox1.Location = new Point(343, 39);
+            textBox1.Multiline = true;
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(445, 290);
+            textBox1.TabIndex = 3;
             // 
             // change_up_button
             // 
-            this.change_up_button.Location = new System.Drawing.Point(343, 392);
-            this.change_up_button.Name = "change_up_button";
-            this.change_up_button.Size = new System.Drawing.Size(127, 46);
-            this.change_up_button.TabIndex = 4;
-            this.change_up_button.Text = "Применить изменения";
-            this.change_up_button.UseVisualStyleBackColor = true;
-            this.change_up_button.Click += new System.EventHandler(this.change_up_button_Click);
+            change_up_button.Location = new Point(343, 392);
+            change_up_button.Name = "change_up_button";
+            change_up_button.Size = new Size(127, 46);
+            change_up_button.TabIndex = 4;
+            change_up_button.Text = "Применить изменения";
+            change_up_button.UseVisualStyleBackColor = true;
+            change_up_button.Click += change_up_button_Click;
             // 
             // update_button
             // 
-            this.update_button.Location = new System.Drawing.Point(661, 392);
-            this.update_button.Name = "update_button";
-            this.update_button.Size = new System.Drawing.Size(127, 46);
-            this.update_button.TabIndex = 5;
-            this.update_button.Text = "Открыть обновленный файл";
-            this.update_button.UseVisualStyleBackColor = true;
-            this.update_button.Click += new System.EventHandler(this.update_button_Click);
+            update_button.Location = new Point(661, 392);
+            update_button.Name = "update_button";
+            update_button.Size = new Size(127, 46);
+            update_button.TabIndex = 5;
+            update_button.Text = "Открыть обновленный файл";
+            update_button.UseVisualStyleBackColor = true;
+            update_button.Click += update_button_Click;
             // 
             // message_label
             // 
-            this.message_label.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.message_label.ForeColor = System.Drawing.Color.IndianRed;
-            this.message_label.Location = new System.Drawing.Point(343, 344);
-            this.message_label.Name = "message_label";
-            this.message_label.Size = new System.Drawing.Size(445, 45);
-            this.message_label.TabIndex = 6;
-            this.message_label.Text = "        ";
+            message_label.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            message_label.ForeColor = Color.IndianRed;
+            message_label.Location = new Point(343, 344);
+            message_label.Name = "message_label";
+            message_label.Size = new Size(445, 45);
+            message_label.TabIndex = 6;
+            message_label.Text = "        ";
             // 
             // save_as_button
             // 
-            this.save_as_button.Location = new System.Drawing.Point(504, 392);
-            this.save_as_button.Name = "save_as_button";
-            this.save_as_button.Size = new System.Drawing.Size(127, 46);
-            this.save_as_button.TabIndex = 7;
-            this.save_as_button.Text = "Сохранить как";
-            this.save_as_button.UseVisualStyleBackColor = true;
-            this.save_as_button.Click += new System.EventHandler(this.save_as_button_Click);
+            save_as_button.Location = new Point(504, 392);
+            save_as_button.Name = "save_as_button";
+            save_as_button.Size = new Size(127, 46);
+            save_as_button.TabIndex = 7;
+            save_as_button.Text = "Сохранить как";
+            save_as_button.UseVisualStyleBackColor = true;
+            save_as_button.Click += save_as_button_Click;
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Window;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.save_as_button);
-            this.Controls.Add(this.message_label);
-            this.Controls.Add(this.update_button);
-            this.Controls.Add(this.change_up_button);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.menuStrip1);
-            this.Controls.Add(this.dataGridView1);
-            this.MainMenuStrip = this.menuStrip1;
-            this.Name = "MainForm";
-            this.Text = "Code Corrector for CNC mschines";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.Window;
+            ClientSize = new Size(800, 450);
+            Controls.Add(save_as_button);
+            Controls.Add(message_label);
+            Controls.Add(update_button);
+            Controls.Add(change_up_button);
+            Controls.Add(textBox1);
+            Controls.Add(menuStrip1);
+            Controls.Add(dataGridView1);
+            MainMenuStrip = menuStrip1;
+            Name = "MainForm";
+            Text = "Code Corrector for CNC machines";
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
