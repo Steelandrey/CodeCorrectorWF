@@ -23,11 +23,12 @@ namespace CodeCorrectorWF
             // Set the column header names.
             dataGridView1.Columns[0].Name = "T old";
             dataGridView1.Columns[1].Name = "T new";
-            //Убираем сортировку
+            
+            // Убираем сортировку
             dataGridView1.Columns[0].SortMode = DataGridViewColumnSortMode.NotSortable;
             dataGridView1.Columns[1].SortMode = DataGridViewColumnSortMode.NotSortable;
 
-            //Выравнивание по центру
+            // Выравнивание по центру
             dataGridView1.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
             dataGridView1.ColumnHeadersDefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
 
@@ -36,7 +37,7 @@ namespace CodeCorrectorWF
             textBox1.ReadOnly = true;
         }
 
-        //Класс файла с программой для станка
+        // Класс файла с программой для станка
         public class UP
         {
             public string Code = ""; // Код исходного документа
@@ -57,11 +58,6 @@ namespace CodeCorrectorWF
             //Метод, анализирующий файл УП
             public void File_Analysis()
             {
-                //Просто тренируюсь
-                /*Array.LastIndexOf(Instruments_array, 1);
-                Array.Copy(Uniq_Instruments_array, Instruments_array, 25);
-                Array.Sort(Uniq_Instruments_array);*/
-
                 //При повторном вызове необходимо занулить
                 Instruments = "";
                 UniqInstruments = "";
